@@ -1,2 +1,0 @@
-# prax
-Ulohy pocas praxe
