@@ -10,12 +10,16 @@ import './App.css';
 //import FunctionalCounter from './components/FunctionalCounter';
 //import Condition from './components/Condition';
 //import Product from './components/Product';
-import Form from './components/Form';
+//import Form from './components/Form';
+import Todo from './components/Todoapp';
+import InlineComponent from './components/InlineComponent';
+import StyleSheet from './components/StyleSheet';
+import Module from './components/Module';
 
 function App() {
   return (
     <div className="App">
-      <Form>  </Form>
+      <Module />
     </div>
   );
 }
